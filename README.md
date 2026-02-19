@@ -1,6 +1,6 @@
 ## Hi there
 
-I’m Pasha, passionate about analytics and engineering.
+I’m Pasha, passionate about data analytics and engineering.
 
 Welcome to my GitHub! Feel at home exploring my repositories, I love seeing others engage with my work.
 
