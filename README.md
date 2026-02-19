@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**git-zxrcodev/git-zxrcodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Pasha, passionate about analytics and engineering.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! Feel at home exploring my repositories, I love seeing others engage with my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I maintain a portfolio of data projects, so feel free to check them out if you’re interested.
+
+🔗 Links
+
+Data Projects Portfolio[https://github.com/git-zxrcodev/data-projects-portfolio]
+
+LinkedIn[https://www.linkedin.com/in/pavlo-popovych-7225382b9/]
+
+Email Me[pavlo.v.popovych@outlook.com]
