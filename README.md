@@ -6,7 +6,7 @@ I'm Pasha, passionate about data analytics and engineering.
 
 Feel at home exploring my repositories, I love seeing others engage with my work.
 
-I maintain a portfolio of data projects, so feel free to check them out if you’re interested.
+I maintain a portfolio website with data projects, so feel free to check them out if you’re interested.
 
 ### 🔗 Links
 
