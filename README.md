@@ -1,6 +1,6 @@
 ## Hi
 
-I'm Pasha, a data person. Feel free to explore my repos.
+I'm Pavlo, a data person. Feel free to explore my repos.
 
 - [Portfolio](https://zxrc0dev.github.io/portfolio/)
 
