@@ -1,6 +1,6 @@
 ## Hi
 
-I'm Pavlo, a data person. 
+I'm Pavlo, and I love data. 
 
 Feel at home exploring my repos.
 
